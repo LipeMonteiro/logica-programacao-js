@@ -8,3 +8,4 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | **01** | Encontre o maior e menor número de uma lista | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex01.js) |
 | **02** | Recebe uma lista de números e retorne a média | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex02.js) |
 | **03** | Verifica se um número é ímpar ou par | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex03.js) |
+| **04** | Verifica a quantidade de números pares em uma lista | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex04.js) |
