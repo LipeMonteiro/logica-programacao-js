@@ -1,9 +1,11 @@
 //Verifique se o número e ímpar ou par 
 
-function numberVerify (numero) {
-    if (numero % 2 == 0) return `O número ${numero} é par`
+function numberVerify (number) {
+    let result = ""
+    number % 2 == 0 ? result = "Even" : result = "Odd";
 
-    else return `O número ${numero} é ímpar`
+    return result
+
 } 
 
 
