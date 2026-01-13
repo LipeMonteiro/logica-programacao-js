@@ -15,4 +15,4 @@ function verificaNumeroPar (array) {
 
 };
 
-verificaNumeroPar(numeros);
+verificaNumeroPar(numeros)
