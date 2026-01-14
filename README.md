@@ -9,3 +9,4 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | **02** | Recebe uma lista de números e retorne a média | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex02.js) |
 | **03** | Verifica se um número é ímpar ou par | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex03.js) |
 | **04** | Verifica a quantidade de números pares em uma lista | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex04.js) |
+| **05** | Inverte uma string | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex05.js) |
