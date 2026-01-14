@@ -10,3 +10,4 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | **03** | Verifica se um número é ímpar ou par | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex03.js) |
 | **04** | Verifica a quantidade de números pares em uma lista | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex04.js) |
 | **05** | Inverte uma string | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex05.js) |
+| **06** | Verifica se a string é um palíndromo | [Visuzlizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex06.js) |
