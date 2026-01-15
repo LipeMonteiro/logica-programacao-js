@@ -1,6 +1,6 @@
 // Conte quantas vogais existem em uma palavra
 
-/*function verificaVogais(string) {;
+function verificaVogais(string) {;
   const vogais = ["a", "e", "i", "o", "u", "f"];
   let qtd = 0;
 
@@ -15,10 +15,5 @@
 const palavra = "Filipe";
 const totalVogais = verificaVogais(palavra);
 
-console.log(`${palavra} tem ${totalVogais} vogais.`); */
+console.log(`${palavra} tem ${totalVogais} vogais.`);
 
-let nomes = ["Filipe", "Silvana"];
-
-let nome = "Filipe"
-
-if (nomes.includes(nome)) console.log(true)
