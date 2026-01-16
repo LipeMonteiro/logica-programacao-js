@@ -11,5 +11,5 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | **04** | Verifica a quantidade de números pares em uma lista | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex04.js) |
 | **05** | Inverte uma string | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex05.js) |
 | **06** | Verifica se a string é um palíndromo | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex06.js) |
-| **07** | Verifica a quantidade de vogais na palavra | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-07/ex06.js) |
-| **08** | Somando números de 1 até N | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-08/ex06.js) |
+| **07** | Verifica a quantidade de vogais na palavra | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex07.js) |
+| **08** | Somando números de 1 até N | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex08.js) |
