@@ -16,3 +16,9 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | **08**    | Somando números de 1 até N                          | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex08.js) |
 | **09**    | Retorne apenas os números positivos de uma lista    | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex09.js) |
 | **10**    | Converte temperatura de Celsius para Fahrenheit     | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-01/ex10.js) |
+
+## 🧩 Nível Iniciante 2
+
+| Exercício | Descrição                     | Deploy                                                                                             |
+| :-------- | :---------------------------- | :------------------------------------------------------------------------------------------------- |
+| **01**    | Verifique se o número é primo | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-02/ex01.js) |
