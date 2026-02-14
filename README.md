@@ -22,3 +22,4 @@ Repositório destinado a exercícios de lógica de programação com a linguagem
 | Exercício | Descrição                     | Deploy                                                                                             |
 | :-------- | :---------------------------- | :------------------------------------------------------------------------------------------------- |
 | **01**    | Verifique se o número é primo | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-02/ex01.js) |
+| **02**    | Fatorial de um número         | [Visualizar](https://github.com/LipeMonteiro/logica-programacao-js/blob/main/iniciante-02/ex02.js) |
